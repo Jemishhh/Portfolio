@@ -14,7 +14,7 @@ const Projects = () => {
             <Image 
             src ="/images/p1.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             
@@ -29,7 +29,7 @@ const Projects = () => {
             <Image 
             src ="/images/p2.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             </div>
@@ -43,7 +43,7 @@ const Projects = () => {
             <Image 
             src ="/images/p3.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             </div>
@@ -57,7 +57,7 @@ const Projects = () => {
             <Image 
             src ="/images/p4.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             </div>
@@ -72,7 +72,7 @@ const Projects = () => {
             <Image 
             src ="/images/p5.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             </div>
@@ -87,7 +87,7 @@ const Projects = () => {
             <Image 
             src ="/images/p1.jpg"
             alt="portfolio"
-            layout='fill'
+            fill
             className="object-contain"
             />
             </div>
